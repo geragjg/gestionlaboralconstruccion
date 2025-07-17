@@ -1,0 +1,13 @@
+C:\Users\Gera-PC\Geras\workspaces\GLC\Servicios\GLCServicios\GLCService.BusinessLogic\bin\Debug\net8.0\GLCService.BusinessLogic.deps.json
+C:\Users\Gera-PC\Geras\workspaces\GLC\Servicios\GLCServicios\GLCService.BusinessLogic\bin\Debug\net8.0\GLCService.BusinessLogic.dll
+C:\Users\Gera-PC\Geras\workspaces\GLC\Servicios\GLCServicios\GLCService.BusinessLogic\bin\Debug\net8.0\GLCService.BusinessLogic.pdb
+C:\Users\Gera-PC\Geras\workspaces\GLC\Servicios\GLCServicios\GLCService.BusinessLogic\obj\Debug\net8.0\GLCService.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Gera-PC\Geras\workspaces\GLC\Servicios\GLCServicios\GLCService.BusinessLogic\obj\Debug\net8.0\GLCService.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gera-PC\Geras\workspaces\GLC\Servicios\GLCServicios\GLCService.BusinessLogic\obj\Debug\net8.0\GLCService.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Gera-PC\Geras\workspaces\GLC\Servicios\GLCServicios\GLCService.BusinessLogic\obj\Debug\net8.0\GLCService.BusinessLogic.AssemblyInfo.cs
+C:\Users\Gera-PC\Geras\workspaces\GLC\Servicios\GLCServicios\GLCService.BusinessLogic\obj\Debug\net8.0\GLCService.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Gera-PC\Geras\workspaces\GLC\Servicios\GLCServicios\GLCService.BusinessLogic\obj\Debug\net8.0\GLCService.BusinessLogic.sourcelink.json
+C:\Users\Gera-PC\Geras\workspaces\GLC\Servicios\GLCServicios\GLCService.BusinessLogic\obj\Debug\net8.0\GLCService.BusinessLogic.dll
+C:\Users\Gera-PC\Geras\workspaces\GLC\Servicios\GLCServicios\GLCService.BusinessLogic\obj\Debug\net8.0\refint\GLCService.BusinessLogic.dll
+C:\Users\Gera-PC\Geras\workspaces\GLC\Servicios\GLCServicios\GLCService.BusinessLogic\obj\Debug\net8.0\GLCService.BusinessLogic.pdb
+C:\Users\Gera-PC\Geras\workspaces\GLC\Servicios\GLCServicios\GLCService.BusinessLogic\obj\Debug\net8.0\ref\GLCService.BusinessLogic.dll

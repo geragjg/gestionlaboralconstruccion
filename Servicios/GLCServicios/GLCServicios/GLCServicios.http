@@ -1,0 +1,6 @@
+@GLCServicios_HostAddress = http://localhost:5156
+
+GET {{GLCServicios_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -6,6 +6,7 @@ import Constructions from './constructions';
 import Reports from './reports';
 import Salaries from './salaries';
 import Employees from './employees';
+import ModuleIcon from './moduleIcon';
 import companyLogo from "../images/logoNorte.jpeg";
 
 
@@ -16,8 +17,20 @@ class Page extends Component {
         name: 'Jornalera',
         iconName: 'clipboard',
         clickComponent: Fortnight,
-        hoverText: 'Gestionar Jornaleros',
-        propsObject: { title: 'Jornalera Modulo', fortnightNumber: '1', year: '2025' },
+        hoverText: 'Gestionar Jornaleros', // This could be dynamic or removed if menu is primary
+        menuItems: [
+          {
+            name: 'Quincena Actual (2025/01)',
+            clickComponent: Fortnight,
+            propsObject: { title: 'Jornalera - Quincena Actual', fortnightNumber: '1', year: '2025' }
+          },
+          {
+            name: 'Quincena Anterior (2024/24)',
+            clickComponent: Fortnight,
+            propsObject: { title: 'Jornalera - Quincena Anterior', fortnightNumber: '24', year: '2024' }
+          }
+        ]
+        , propsObject: { title: 'Jornalera Modulo', fortnightNumber: '1', year: '2025' },
       },
       {
         name: 'Obras',
@@ -127,36 +140,8 @@ class Page extends Component {
               </Dimmer>
               <Grid  columns={4}>
                 {icons.map((icon, index) => (
-                 <Grid.Column key={index} textAlign="left">
-                 <div 
-                   style={{ 
-                     display: 'flex', 
-                     flexDirection: 'column', 
-                     alignItems: 'center', 
-                     cursor: 'pointer' 
-                   }} 
-                   onClick={() => this.handleClick(icon.clickComponent, icon.propsObject)}
-                 >
-                   {/* Fixed-size circular container */}
-                   <Segment 
-                     circular 
-                     style={{ 
-                       width: '120px',
-                       height: '80px',
-                       padding: '0',
-                       border: '1px solid grey',
-                       display: 'flex',
-                       justifyContent: 'center',
-                       alignItems: 'center'
-                     }}
-                   >
-                     <Icon name={icon.iconName} size="big" />
-                   </Segment>
-                   <div style={{ marginTop: '10px', color: '#4a4a4a', textAlign: 'center' }}>
-                     {icon.name}
-                   </div>
-                 </div>
-               </Grid.Column>
+                  <ModuleIcon icon = {icon} />
+                 
                 ))}
               </Grid>
             </Dimmer.Dimmable>

@@ -1,0 +1,502 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4122CD9D-FBE6-4D0A-BED8-FEBC7D19A948}|GLCServicios\\GLCServicios.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservicios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4122CD9D-FBE6-4D0A-BED8-FEBC7D19A948}|GLCServicios\\GLCServicios.csproj|solutionrelative:glcservicios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4122CD9D-FBE6-4D0A-BED8-FEBC7D19A948}|GLCServicios\\GLCServicios.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4122CD9D-FBE6-4D0A-BED8-FEBC7D19A948}|GLCServicios\\GLCServicios.csproj|solutionrelative:glcservicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4122CD9D-FBE6-4D0A-BED8-FEBC7D19A948}|GLCServicios\\GLCServicios.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservicios\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4122CD9D-FBE6-4D0A-BED8-FEBC7D19A948}|GLCServicios\\GLCServicios.csproj|solutionrelative:glcservicios\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4122CD9D-FBE6-4D0A-BED8-FEBC7D19A948}|GLCServicios\\GLCServicios.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservicios\\entities\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4122CD9D-FBE6-4D0A-BED8-FEBC7D19A948}|GLCServicios\\GLCServicios.csproj|solutionrelative:glcservicios\\entities\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4122CD9D-FBE6-4D0A-BED8-FEBC7D19A948}|GLCServicios\\GLCServicios.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservicios\\helpers\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4122CD9D-FBE6-4D0A-BED8-FEBC7D19A948}|GLCServicios\\GLCServicios.csproj|solutionrelative:glcservicios\\helpers\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservice.businesslogic\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|solutionrelative:glcservice.businesslogic\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservice.businesslogic\\entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|solutionrelative:glcservice.businesslogic\\entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063A6CE0-8BD9-4C72-BD8E-8E18657E9A51}|GLCService.DataAccess\\GLCService.DataAccess.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservice.dataaccess\\entities\\mijornaleradbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063A6CE0-8BD9-4C72-BD8E-8E18657E9A51}|GLCService.DataAccess\\GLCService.DataAccess.csproj|solutionrelative:glcservice.dataaccess\\entities\\mijornaleradbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservice.businesslogic\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|solutionrelative:glcservice.businesslogic\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservice.businesslogic\\requestsresponses\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|solutionrelative:glcservice.businesslogic\\requestsresponses\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservice.businesslogic\\entities\\usuariokey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|solutionrelative:glcservice.businesslogic\\entities\\usuariokey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservice.businesslogic\\interfaces\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|solutionrelative:glcservice.businesslogic\\interfaces\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservice.businesslogic\\interfaces\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|solutionrelative:glcservice.businesslogic\\interfaces\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservice.businesslogic\\interfaces\\repositories\\iread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|solutionrelative:glcservice.businesslogic\\interfaces\\repositories\\iread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservice.businesslogic\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|solutionrelative:glcservice.businesslogic\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservice.businesslogic\\interfaces\\idomainentitykey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|solutionrelative:glcservice.businesslogic\\interfaces\\idomainentitykey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063A6CE0-8BD9-4C72-BD8E-8E18657E9A51}|GLCService.DataAccess\\GLCService.DataAccess.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservice.dataaccess\\glcservice.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{063A6CE0-8BD9-4C72-BD8E-8E18657E9A51}|GLCService.DataAccess\\GLCService.DataAccess.csproj|solutionrelative:glcservice.dataaccess\\glcservice.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063A6CE0-8BD9-4C72-BD8E-8E18657E9A51}|GLCService.DataAccess\\GLCService.DataAccess.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservice.dataaccess\\mijornaleradbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063A6CE0-8BD9-4C72-BD8E-8E18657E9A51}|GLCService.DataAccess\\GLCService.DataAccess.csproj|solutionrelative:glcservice.dataaccess\\mijornaleradbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4122CD9D-FBE6-4D0A-BED8-FEBC7D19A948}|GLCServicios\\GLCServicios.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservicios\\controllers\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4122CD9D-FBE6-4D0A-BED8-FEBC7D19A948}|GLCServicios\\GLCServicios.csproj|solutionrelative:glcservicios\\controllers\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063A6CE0-8BD9-4C72-BD8E-8E18657E9A51}|GLCService.DataAccess\\GLCService.DataAccess.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservice.dataaccess\\persistance\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063A6CE0-8BD9-4C72-BD8E-8E18657E9A51}|GLCService.DataAccess\\GLCService.DataAccess.csproj|solutionrelative:glcservice.dataaccess\\persistance\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4122CD9D-FBE6-4D0A-BED8-FEBC7D19A948}|GLCServicios\\GLCServicios.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservicios\\helpers\\errormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4122CD9D-FBE6-4D0A-BED8-FEBC7D19A948}|GLCServicios\\GLCServicios.csproj|solutionrelative:glcservicios\\helpers\\errormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4122CD9D-FBE6-4D0A-BED8-FEBC7D19A948}|GLCServicios\\GLCServicios.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservicios\\requests\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4122CD9D-FBE6-4D0A-BED8-FEBC7D19A948}|GLCServicios\\GLCServicios.csproj|solutionrelative:glcservicios\\requests\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservice.businesslogic\\interfaces\\repositories\\icreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|solutionrelative:glcservice.businesslogic\\interfaces\\repositories\\icreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservice.businesslogic\\interfaces\\repositories\\idelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|solutionrelative:glcservice.businesslogic\\interfaces\\repositories\\idelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservice.businesslogic\\interfaces\\repositories\\iupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|solutionrelative:glcservice.businesslogic\\interfaces\\repositories\\iupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4122CD9D-FBE6-4D0A-BED8-FEBC7D19A948}|GLCServicios\\GLCServicios.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservicios\\requests\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4122CD9D-FBE6-4D0A-BED8-FEBC7D19A948}|GLCServicios\\GLCServicios.csproj|solutionrelative:glcservicios\\requests\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063A6CE0-8BD9-4C72-BD8E-8E18657E9A51}|GLCService.DataAccess\\GLCService.DataAccess.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservice.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063A6CE0-8BD9-4C72-BD8E-8E18657E9A51}|GLCService.DataAccess\\GLCService.DataAccess.csproj|solutionrelative:glcservice.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservice.businesslogic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DBE0FB-D2B3-4DA7-8701-A34CDE4F2CD1}|GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj|solutionrelative:glcservice.businesslogic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4122CD9D-FBE6-4D0A-BED8-FEBC7D19A948}|GLCServicios\\GLCServicios.csproj|c:\\users\\gera-pc\\geras\\workspaces\\glc\\servicios\\glcservicios\\glcservicios\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4122CD9D-FBE6-4D0A-BED8-FEBC7D19A948}|GLCServicios\\GLCServicios.csproj|solutionrelative:glcservicios\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MiJornaleraDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.DataAccess\\Entities\\MiJornaleraDbContext.cs",
+              "RelativeDocumentMoniker": "GLCService.DataAccess\\Entities\\MiJornaleraDbContext.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.DataAccess\\Entities\\MiJornaleraDbContext.cs",
+              "RelativeToolTip": "GLCService.DataAccess\\Entities\\MiJornaleraDbContext.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAUwMEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T22:11:46.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "GLCService.BusinessLogic\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\Entities\\Usuario.cs",
+              "RelativeToolTip": "GLCService.BusinessLogic\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T09:02:56.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCServicios\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "GLCServicios\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCServicios\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "GLCServicios\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAArwC8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T22:28:17.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "GLCService.BusinessLogic\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "GLCService.BusinessLogic\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T23:30:31.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "GLCService.BusinessLogic\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "GLCService.BusinessLogic\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:05:33.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\Interfaces\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "GLCService.BusinessLogic\\Interfaces\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\Interfaces\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "GLCService.BusinessLogic\\Interfaces\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:04:05.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCServicios\\Program.cs",
+              "RelativeDocumentMoniker": "GLCServicios\\Program.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCServicios\\Program.cs",
+              "RelativeToolTip": "GLCServicios\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:17:52.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\Entities\\Rol.cs",
+              "RelativeDocumentMoniker": "GLCService.BusinessLogic\\Entities\\Rol.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\Entities\\Rol.cs",
+              "RelativeToolTip": "GLCService.BusinessLogic\\Entities\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T08:57:55.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCServicios\\appsettings.json",
+              "RelativeDocumentMoniker": "GLCServicios\\appsettings.json",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCServicios\\appsettings.json",
+              "RelativeToolTip": "GLCServicios\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-04T11:27:20.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCServicios\\Entities\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "GLCServicios\\Entities\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCServicios\\Entities\\JwtSettings.cs",
+              "RelativeToolTip": "GLCServicios\\Entities\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T22:39:35.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCServicios\\Helpers\\JwtService.cs",
+              "RelativeDocumentMoniker": "GLCServicios\\Helpers\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCServicios\\Helpers\\JwtService.cs",
+              "RelativeToolTip": "GLCServicios\\Helpers\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T09:02:46.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "GLCService.BusinessLogic\\Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "RelativeToolTip": "GLCService.BusinessLogic\\Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:12:49.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioKey.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\Entities\\UsuarioKey.cs",
+              "RelativeDocumentMoniker": "GLCService.BusinessLogic\\Entities\\UsuarioKey.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\Entities\\UsuarioKey.cs",
+              "RelativeToolTip": "GLCService.BusinessLogic\\Entities\\UsuarioKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T22:24:27.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRead.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\Interfaces\\Repositories\\IRead.cs",
+              "RelativeDocumentMoniker": "GLCService.BusinessLogic\\Interfaces\\Repositories\\IRead.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\Interfaces\\Repositories\\IRead.cs",
+              "RelativeToolTip": "GLCService.BusinessLogic\\Interfaces\\Repositories\\IRead.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T09:59:15.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OperationResult.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\RequestsResponses\\OperationResult.cs",
+              "RelativeDocumentMoniker": "GLCService.BusinessLogic\\RequestsResponses\\OperationResult.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\RequestsResponses\\OperationResult.cs",
+              "RelativeToolTip": "GLCService.BusinessLogic\\RequestsResponses\\OperationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T08:46:01.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDomainEntityKey.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\Interfaces\\IDomainEntityKey.cs",
+              "RelativeDocumentMoniker": "GLCService.BusinessLogic\\Interfaces\\IDomainEntityKey.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\Interfaces\\IDomainEntityKey.cs",
+              "RelativeToolTip": "GLCService.BusinessLogic\\Interfaces\\IDomainEntityKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:04:41.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MiJornaleraDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.DataAccess\\MiJornaleraDbContext.cs",
+              "RelativeDocumentMoniker": "GLCService.DataAccess\\MiJornaleraDbContext.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.DataAccess\\MiJornaleraDbContext.cs",
+              "RelativeToolTip": "GLCService.DataAccess\\MiJornaleraDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:34:48.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GLCService.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.DataAccess\\GLCService.DataAccess.csproj",
+              "RelativeDocumentMoniker": "GLCService.DataAccess\\GLCService.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.DataAccess\\GLCService.DataAccess.csproj",
+              "RelativeToolTip": "GLCService.DataAccess\\GLCService.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-11T11:54:00.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.DataAccess\\Persistance\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "GLCService.DataAccess\\Persistance\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.DataAccess\\Persistance\\UnitOfWork.cs",
+              "RelativeToolTip": "GLCService.DataAccess\\Persistance\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:31:17.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCServicios\\Controllers\\Test.cs",
+              "RelativeDocumentMoniker": "GLCServicios\\Controllers\\Test.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCServicios\\Controllers\\Test.cs",
+              "RelativeToolTip": "GLCServicios\\Controllers\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T23:14:02.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCServicios\\Helpers\\ErrorMapper.cs",
+              "RelativeDocumentMoniker": "GLCServicios\\Helpers\\ErrorMapper.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCServicios\\Helpers\\ErrorMapper.cs",
+              "RelativeToolTip": "GLCServicios\\Helpers\\ErrorMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T09:10:40.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApiResult.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCServicios\\Requests\\ApiResult.cs",
+              "RelativeDocumentMoniker": "GLCServicios\\Requests\\ApiResult.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCServicios\\Requests\\ApiResult.cs",
+              "RelativeToolTip": "GLCServicios\\Requests\\ApiResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T09:16:16.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICreate.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\Interfaces\\Repositories\\ICreate.cs",
+              "RelativeDocumentMoniker": "GLCService.BusinessLogic\\Interfaces\\Repositories\\ICreate.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\Interfaces\\Repositories\\ICreate.cs",
+              "RelativeToolTip": "GLCService.BusinessLogic\\Interfaces\\Repositories\\ICreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T09:58:42.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IDelete.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\Interfaces\\Repositories\\IDelete.cs",
+              "RelativeDocumentMoniker": "GLCService.BusinessLogic\\Interfaces\\Repositories\\IDelete.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\Interfaces\\Repositories\\IDelete.cs",
+              "RelativeToolTip": "GLCService.BusinessLogic\\Interfaces\\Repositories\\IDelete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T09:59:08.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\Interfaces\\Repositories\\IUpdate.cs",
+              "RelativeDocumentMoniker": "GLCService.BusinessLogic\\Interfaces\\Repositories\\IUpdate.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\Interfaces\\Repositories\\IUpdate.cs",
+              "RelativeToolTip": "GLCService.BusinessLogic\\Interfaces\\Repositories\\IUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T09:59:28.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCServicios\\Requests\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "GLCServicios\\Requests\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCServicios\\Requests\\LoginRequest.cs",
+              "RelativeToolTip": "GLCServicios\\Requests\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T22:33:20.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "GLCService.DataAccess\\Class1.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.DataAccess\\Class1.cs",
+              "RelativeToolTip": "GLCService.DataAccess\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:28:00.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\Class1.cs",
+              "RelativeDocumentMoniker": "GLCService.BusinessLogic\\Class1.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\Class1.cs",
+              "RelativeToolTip": "GLCService.BusinessLogic\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:25:41.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCServicios\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "GLCServicios\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCServicios\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "GLCServicios\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:18:16.604Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

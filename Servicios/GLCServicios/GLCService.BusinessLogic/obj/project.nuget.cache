@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QUq06vXIOD8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gera-PC\\Geras\\workspaces\\GLC\\Servicios\\GLCServicios\\GLCService.BusinessLogic\\GLCService.BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gera-PC\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
